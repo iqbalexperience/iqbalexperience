@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Iqbal, a passionate JavaScript developer with a focus on creating interactive user experiences using React. With several years of experience building web apps, Chrome extensions, Android and iOS apps, PWAs, and desktop apps, I have honed my skills in creating robust, scalable, and maintainable software solutions. I'm always eager to learn and keep up with the latest technologies and best practices in the industry. When I'm not coding, you can find me exploring new coffee shops, playing video games, or practicing my guitar skills. Let's build something awesome together!
+I'm Iqbal, a passionate JavaScript developer with a focus on creating interactive user experiences using React. With several years of experience building web apps, Chrome extensions, Android and iOS apps, PWAs, and desktop apps, I have sharpen my skills in creating robust, scalable, and maintainable software solutions. I'm always eager to learn and keep up with the latest technologies and best practices in the industry. When I'm not coding, you can find me exploring new coffee shops, playing video games or watchinh movies. Let's build something awesome together!
 
 <!--
 **iqbalexperience/iqbalexperience** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
